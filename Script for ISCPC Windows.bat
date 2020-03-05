@@ -72,6 +72,7 @@ echo ***************************************** Sublime Checking ****************
 echo.
 
 "C:\Program Files\Sublime Text 3\sublime_text.exe"
+"C:\Program Files (x86)\Sublime Text 3\sublime_text.exe"
 echo.
 echo Sublime Text checking Complete
 echo.
